@@ -38,7 +38,8 @@ namespace MeuBot
                 web.Navigate("https://www.wikipedia.org/");
                 web.AssignValue(TypeElement.Id, "searchInput", pesquisaUsuario).element.SendKeys(Keys.Enter);
             }
-            else if(alternativaInicial == 'c' || alternativaInicial == 'C'){
+            else if (alternativaInicial == 'c' || alternativaInicial == 'C')
+            {
                 Console.Clear();
                 System.Console.WriteLine("[OPÇÃO SELECIONADA - YouTube]");
                 Console.WriteLine("Perfeito! Digite abaixo sua pesquisa: ");
@@ -47,7 +48,9 @@ namespace MeuBot
                 web.StartBrowser();
                 web.Navigate("https://www.youtube.com/");
                 web.AssignValue(TypeElement.Name, "search_query", pesquisaUsuario).element.SendKeys(Keys.Enter);
-            }else{
+            }
+            else
+            {
                 Console.Clear();
                 System.Console.WriteLine("[OPÇÃO SELECIONADA - StackOverflow]");
                 Console.WriteLine("Perfeito! Digite abaixo sua pesquisa: ");
