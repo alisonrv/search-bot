@@ -149,71 +149,71 @@
         "runtime": {
           "lib/IKVM.OpenJDK.Beans.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Charsets.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Corba.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Core.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Jdbc.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Management.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Media.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Misc.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Naming.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Remoting.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Security.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.SwingAWT.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Text.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.Util.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.OpenJDK.XML.API.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.Runtime.JNI.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/IKVM.Runtime.dll": {
             "assemblyVersion": "7.2.4630.5",
-            "fileVersion": "7.2.4630.5"
+            "fileVersion": "0.0.0.0"
           },
           "lib/bcmail-jdk15-1.44.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -229,7 +229,7 @@
           },
           "lib/fontbox-1.8.2.dll": {
             "assemblyVersion": "1.8.2.0",
-            "fileVersion": "1.8.2.0"
+            "fileVersion": "0.0.0.0"
           },
           "lib/icu4j-3.8.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -237,7 +237,7 @@
           },
           "lib/jempbox-1.8.2.dll": {
             "assemblyVersion": "1.8.2.0",
-            "fileVersion": "1.8.2.0"
+            "fileVersion": "0.0.0.0"
           },
           "lib/junit.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -245,7 +245,7 @@
           },
           "lib/pdfbox-1.8.2.dll": {
             "assemblyVersion": "1.8.2.0",
-            "fileVersion": "1.8.2.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -324,13 +324,10 @@
       },
       "Selenium.WebDriver.ChromeDriver/105.0.5195.5200": {},
       "Sikuli4Net/1.0.6": {
-        "dependencies": {
-          "Newtonsoft.Json": "10.0.3"
-        },
         "runtime": {
           "lib/Sikuli4Net.dll": {
             "assemblyVersion": "1.0.5319.36348",
-            "fileVersion": "1.0.5319.36348"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
